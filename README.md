@@ -14,7 +14,7 @@
 <a href="https://twitter.com/emamul_mottakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emamul_mottakin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emamul-mottakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emamul-mottakin" height="30" width="40" /></a>
 <a href="https://dribbble.com/emamul-mottakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="emamul-mottakin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@emamul-mottakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emamul-mottakin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@emamul-mottakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emamul-mottakin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
