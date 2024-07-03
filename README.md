@@ -3,13 +3,11 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' alt='coding' width='400' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlOGI2ZjU4YmE1ZGY4MjA2MjcxNzNlMDU3NTcyMjMzMjFiMWM3NSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Javascript, MERN**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [mottakin.com](mottakin.com)
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Tailwind, javascript**
 
-- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap**
-
-- 📫 How to reach me **hello@mottakin.com**
+- 📫 How to reach me **emarko3236@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
